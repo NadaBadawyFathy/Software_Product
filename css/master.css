@@ -1105,6 +1105,7 @@ header .container .box nav a:last-of-type {
     outline: none;
     border: 0;
     caret-color: var(--color-orange);
+    resize: none;
 }
 .w-nothing .container .box input::placeholder ,
 .w-nothing .container .box textarea::placeholder {
